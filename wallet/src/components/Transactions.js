@@ -1,5 +1,8 @@
 import React from 'react'
 
+// * Display a list of all transactions for this user, 
+//including sender and recipient
+
 const Transactions = () => {
 
     return(

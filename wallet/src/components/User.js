@@ -1,5 +1,8 @@
 import React from 'react'
 
+// * Allow the user to enter, save, or 
+//change the `id` used for the program
+
 const User = () => {
 
     return(

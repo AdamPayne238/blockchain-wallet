@@ -1,5 +1,7 @@
 import React from 'react'
 
+// * Display the current balance for that user
+
 const Balance = () => {
 
     return(
